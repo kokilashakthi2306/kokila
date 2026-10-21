@@ -1,0 +1,6 @@
+{
+  "name": "Shaisha Tours & Travels - Ooty Taxi Service",
+  "description": "Premium taxi service and tourist cab rental in Ooty, The Nilgiris. Sightseeing tours, Coonoor trips, airport transfers, and outstation travel with experienced hill drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
